@@ -2,6 +2,8 @@
 <img align='right' src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="230">
 <p><em>CE Alumni @ <a href="https://www.eng.mcmaster.ca/ece/">McMaster University</a><img src="https://media.giphy.com/media/gcvK34X4p1Villj88T/giphy.gif" width="30"></br>
 <h4>Work Experience </h4>
+Full Stack Engineer @ <a href="https://lifestylerx.io/">LifestyleRx  </a><img src="[https://www.cibc.com/content/dam/global-assets/logos/cibc-logos/no-tagline/cibc-logo-colour-142x36.svg](https://lifestylerx.io/images/lrx_logo.svg)" width="30"> </br>
+
 SWE Intern @ <a href="https://cibc.com/">CIBC  </a><img src="https://www.cibc.com/content/dam/global-assets/logos/cibc-logos/no-tagline/cibc-logo-colour-142x36.svg" width="30"> </br>
 SWE Intern & Project Coordinator @ <a href="https://manulife.com/">Manulife  </a><img src="https://www.manulife.ca/content/dam/consumer-portal/logo/en/manulife-home-100.svg" width="30"> </br>
 SWE Intern @ <a href="https://menlolab.com/">Menlolab  </a><img src="https://menlolab.com/images/color_logo_transparent-p-500.png" width="45"> </br>
@@ -20,8 +22,8 @@ SWE Intern @ <a href="https://www.regshield.ai/">Regshield.AI  </a><img src="htt
 ```javascript
 let patrick = {
   pronouns: "he" | "him",
-  code: [Javascript, Python, C/C++, Java, Typescript],
-  tools: [React, Vue, Databricks, Azure, BulkAPI 2.0, Pyspark, Node.js, Express, Spring Boot, MongoDB],
+  code: [Javascript, PHP, Python, C/C++, Java, Typescript],
+  tools: [Laravel, Livewire, Tailwind, React, Vue, Databricks, Azure, BulkAPI 2.0, Pyspark, Node.js, Express, Spring Boot, MongoDB],
 
   energy: "chillin",
   swag: Math.max()
